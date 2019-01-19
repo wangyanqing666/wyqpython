@@ -1,0 +1,8 @@
+<project>
+    <case>
+        <unitest-01/>
+        <unitest-02/>
+        <unitest-03/>
+        <unitest-04/>
+    </case>
+</project>
